@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+}
+
+body {
+    background-color: rgb(179, 179, 255);
+    background-image: url("1305673.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+  color:rgb(0, 37, 202);
+  text-align: center;
+  font-size: 70px;
+}
+
+p {
+    color: rgb(43, 0, 161);
+    font-size: 30px;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+    color: aliceblue;
+}
+
+ol {
+    list-style-position: inside;
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 10px;
+}
